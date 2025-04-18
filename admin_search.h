@@ -14,6 +14,6 @@ struct Student {
 
 // Function declaration
 void searchStudentByID();
+void deleteStudentByID();
 
 #endif
-
